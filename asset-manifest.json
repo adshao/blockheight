@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/blockheight/static/css/main.10041812.chunk.css",
+    "main.js": "/blockheight/static/js/main.b06af44a.chunk.js",
+    "main.js.map": "/blockheight/static/js/main.b06af44a.chunk.js.map",
+    "runtime-main.js": "/blockheight/static/js/runtime-main.e564aafc.js",
+    "runtime-main.js.map": "/blockheight/static/js/runtime-main.e564aafc.js.map",
+    "static/css/2.1cf10dbe.chunk.css": "/blockheight/static/css/2.1cf10dbe.chunk.css",
+    "static/js/2.54340074.chunk.js": "/blockheight/static/js/2.54340074.chunk.js",
+    "static/js/2.54340074.chunk.js.map": "/blockheight/static/js/2.54340074.chunk.js.map",
+    "static/js/3.2e117612.chunk.js": "/blockheight/static/js/3.2e117612.chunk.js",
+    "static/js/3.2e117612.chunk.js.map": "/blockheight/static/js/3.2e117612.chunk.js.map",
+    "index.html": "/blockheight/index.html",
+    "static/css/2.1cf10dbe.chunk.css.map": "/blockheight/static/css/2.1cf10dbe.chunk.css.map",
+    "static/css/main.10041812.chunk.css.map": "/blockheight/static/css/main.10041812.chunk.css.map",
+    "static/js/2.54340074.chunk.js.LICENSE.txt": "/blockheight/static/js/2.54340074.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e564aafc.js",
+    "static/css/2.1cf10dbe.chunk.css",
+    "static/js/2.54340074.chunk.js",
+    "static/css/main.10041812.chunk.css",
+    "static/js/main.b06af44a.chunk.js"
+  ]
+}
