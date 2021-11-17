@@ -40,7 +40,7 @@ function App() {
           position: 'absolute', left: '50%', top: '90%',
           transform: 'translate(-50%, -50%)'
         }}>
-        <Follow username="AdamShao" options={{ "data-show-count": "false" }} />
+        <Follow username="AdamShao" options={{ showCount: false }} />
       </div>
     </div>
   );
