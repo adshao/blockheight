@@ -47,12 +47,57 @@ img {
   font-size: 5.5em;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 280px) {
+  .tick-flip {
+    font-size: 18px;
+  }
+  .tick {
+    width: 50vw;
+  }
+}
+
+@media screen and (max-width: 320px) and (min-width: 281px) {
+  .tick-flip {
+    font-size: 25px;
+  }
+  .tick {
+    width: 60vw;
+  }
+}
+
+@media screen and (max-width: 360px) and (min-width: 321px) {
+  .tick-flip {
+    font-size: 30px;
+  }
+  .tick {
+    width: 70vw;
+  }
+}
+
+@media screen and (max-width: 767px) and (min-width: 361px) {
   .tick-flip {
     font-size: 40px;
   }
   .tick {
     width: 80vw;
+  }
+}
+
+@media screen and (max-width: 1000px) and (min-width: 768px) {
+  .tick-flip {
+    font-size: 60px;
+  }
+  .tick {
+    width: 90vw;
+  }
+}
+
+@media screen and (max-width: 1440px) and (min-width: 1001px) {
+  .tick-flip {
+    font-size: 80px;
+  }
+  .tick {
+    width: 100vw;
   }
 }
 
