@@ -47,17 +47,17 @@ img {
   font-size: 5.5em;
 }
 
+@media screen and (max-width: 480px) {
+  .tick-flip {
+    font-size: 40px;
+  }
+  .tick {
+    width: 80vw;
+  }
+}
+
 .bitcoin-logo {
   width: 132px;
   height: 29px;
   vertical-align: middle;
 }
-
-.updated-time {
-  color: gray;
-  position: absolute;
-  right: 0px;
-  margin-right: 15px;
-  padding-right: 15px;
-}
-
